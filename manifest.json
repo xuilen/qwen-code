@@ -1,0 +1,105 @@
+{
+  "sourceHead": "01785474c8affd6d5306cabe47c7dc00249dea28",
+  "sourceTree": "9c521525ed539a00a2ce458377fca143094ca585",
+  "date": "2026-11-12",
+  "finalHarnessStats": {
+    "startTime": "2026-11-12T06:19:23.673Z",
+    "duration": 92931.647,
+    "expected": 4,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "mockBackend": true,
+  "productSourceModified": false,
+  "files": {
+    "ci-failures.md": {
+      "bytes": 3240,
+      "sha256": "99c649945a886f77e1dcf6fb6f0ada74a54321cc44a7581faa4617e5345caa3f"
+    },
+    "dark-configured-phrase.png": {
+      "bytes": 24557,
+      "sha256": "f30100c0226798b392a8fe29081c0a1370236b4a6c24c9158617c715d24f517b"
+    },
+    "dark-host-precedence.png": {
+      "bytes": 23875,
+      "sha256": "6221e92d4b55c06e528dbd91ad91eaaa22d0d8682dbf7e5695277eb1f3b048d3"
+    },
+    "dark-observations.json": {
+      "bytes": 766,
+      "sha256": "c7d8cb9eef1124a0bfac0cca8e8867ff3dcff5378c15084fb17f0b8492b6058d"
+    },
+    "dark-other-setting-restart-control.png": {
+      "bytes": 20644,
+      "sha256": "02b5e327050614595d1253e58a3a37548b8ff979a7ba1b00c37e14dcc63bf726"
+    },
+    "dark-phrase-disabled.png": {
+      "bytes": 22573,
+      "sha256": "417d376ddc427c6b0a301e19325d7becc1d77aa88d4cb85298ee824a78ecb6e4"
+    },
+    "dark-phrase-reenabled.png": {
+      "bytes": 25503,
+      "sha256": "d456222060cef1d69f5227e992d29bd6e5746b0c8cbbf97cbfca79ed119e4570"
+    },
+    "dark-settings-disabled-no-banner.png": {
+      "bytes": 18272,
+      "sha256": "0294ee7f93a1c120b309c70558e726b60f791c913f0bc0073abfd7465caff25e"
+    },
+    "dark-settings-enabled-no-banner.png": {
+      "bytes": 18330,
+      "sha256": "ad91714ba3a58999fd38ab868a5a5a4e8f04bf845383726915d8d55588b34afe"
+    },
+    "light-configured-phrase.png": {
+      "bytes": 24566,
+      "sha256": "f54364f47b3c30141ae99592f502fbed82942bbfc63e4ebba62e5433ec580a2f"
+    },
+    "light-invalid-entry-fallback.png": {
+      "bytes": 24268,
+      "sha256": "68624cd9fd31992cc5187b488bc830cd84ed7decbe9378183bec263e339ecdd2"
+    },
+    "light-observations.json": {
+      "bytes": 766,
+      "sha256": "c7d8cb9eef1124a0bfac0cca8e8867ff3dcff5378c15084fb17f0b8492b6058d"
+    },
+    "light-other-setting-restart-control.png": {
+      "bytes": 20863,
+      "sha256": "fd4e4d6ce70f4b68971e1fc83f90d673c2e0e5df384d8e8ee7193bedb90cffb5"
+    },
+    "light-phrase-disabled.png": {
+      "bytes": 22780,
+      "sha256": "2a985f8161f4ae9e3893601e5f6295d2710d1e18ad94f33fdc37b35a0b2a8c79"
+    },
+    "light-phrase-reenabled.png": {
+      "bytes": 26001,
+      "sha256": "51af2742ebb70cb4357bdc6c6f6ec8838dc6381e8a840f18e624c69bd20b17a2"
+    },
+    "light-settings-disabled-no-banner.png": {
+      "bytes": 17976,
+      "sha256": "fee203224860a8a010d53a1ebd0199026128b5b5032e653a22c83f6379f26446"
+    },
+    "light-settings-enabled-no-banner.png": {
+      "bytes": 18176,
+      "sha256": "039d000be6cc93e17f5269f6724455a873d203a4187c086b8b2793ee24808829"
+    },
+    "loading-phrases.spec.ts": {
+      "bytes": 6780,
+      "sha256": "da9b7e9832bdb277877364a8cfbf4784bf8139d98244f7cda41904392b86d48d"
+    },
+    "package.json": {
+      "bytes": 33,
+      "sha256": "a90fc33418afa2b9cbf4768524b021135b965ecdf993457505bfae3ac44a8428"
+    },
+    "playwright.config.cjs": {
+      "bytes": 1099,
+      "sha256": "babeb59ede07f0ef18ae90bd9918597d3b1cf8c1edcea3dac00a5cf7b9d9a187"
+    },
+    "README.md": {
+      "bytes": 3806,
+      "sha256": "73d6d11d6c3f792eddada2d2647fdad2a8ece4bbcc1113b96bfb5f71e2dc2e51"
+    },
+    "vite.config.mts": {
+      "bytes": 737,
+      "sha256": "02e62c4543d535278652370d4d4f2d15025d32d6ab5b209e291694b438b2bde9"
+    }
+  }
+}
