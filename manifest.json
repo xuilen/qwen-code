@@ -1,0 +1,128 @@
+{
+  "sourceHead": "af17c6219d5d5286870c043c5ca1ac6073af13da",
+  "sourceTree": "6eaf1661da0aa9674b2c2e584784a7c4e7a2a691",
+  "baseHead": "01785474c8affd6d5306cabe47c7dc00249dea28",
+  "mainRef": "5e64e2d8a1517939b7c3b30c8e45cf447bde70cd",
+  "executionIdentity": "uncommitted prepared merge tree; sourceHead may be bound only after actual commit tree equality check",
+  "date": "2026-11-12",
+  "finalHarnessStats": {
+    "startTime": "2026-11-12T07:51:48.080Z",
+    "duration": 115063.007,
+    "expected": 4,
+    "skipped": 0,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "mockBackend": true,
+  "forcedSettingsResponseRequiresRestart": true,
+  "productSourceModified": false,
+  "nonceProof": {
+    "light": "a75ac718-a11c-46dd-a0a9-f387213baf6d",
+    "dark": "e7764900-e461-49c7-aa0c-b2f2aaf54028",
+    "beforeAfterEqual": true
+  },
+  "checksProvenance": {
+    "productChecksPreparedTree": "55d5e2baaa9d8c04e2113e5ba374a64014bf8f23",
+    "unitPassed": 316,
+    "unitFilteredSkipped": 1493,
+    "rootBuildExit": 0,
+    "rootTypecheckExit": 0,
+    "finalTreeDiffOnly": "eleven upstream CI/workflow/docs files; no product/dependency/type-configuration/product-test change",
+    "supplementaryCiMeta": {
+      "passed": 52,
+      "failed": 3,
+      "failedReason": "Three Windows Bash-related fixture failures: line255 spawnSync bash EINVAL; lines302/405 WSL execvpe(/bin/bash) failed No such file. Linux host-admission implementation not executed."
+    },
+    "freshnessSpecificPassed": 47
+  },
+  "files": {
+    "README.md": {
+      "bytes": 5268,
+      "sha256": "a77680b23957e513a6de42203b411fbf2a342e2724b68f82e1d138b33e3ac513"
+    },
+    "ci-failures.md": {
+      "bytes": 4947,
+      "sha256": "3f3902d96f89e2dc5c539e717aa3594333957598ec662359a603681c43efd347"
+    },
+    "dark-configured-phrase.png": {
+      "bytes": 24592,
+      "sha256": "460ebf79064736d96ef954c7d54d8fe77488d861f3689e767b46b6987b342aac"
+    },
+    "dark-host-precedence.png": {
+      "bytes": 23841,
+      "sha256": "09f949e4d8ca32b45f6934b195ee4ea5b63cc1697065546d3eb11131e711e269"
+    },
+    "dark-observations.json": {
+      "bytes": 961,
+      "sha256": "e4b3acfb2f83dbb461a7a3627c3db762405bb6d2025353bdc2806e77625c8e04"
+    },
+    "dark-other-setting-restart-control.png": {
+      "bytes": 20644,
+      "sha256": "02b5e327050614595d1253e58a3a37548b8ff979a7ba1b00c37e14dcc63bf726"
+    },
+    "dark-phrase-disabled.png": {
+      "bytes": 22573,
+      "sha256": "417d376ddc427c6b0a301e19325d7becc1d77aa88d4cb85298ee824a78ecb6e4"
+    },
+    "dark-phrase-reenabled.png": {
+      "bytes": 25568,
+      "sha256": "a9d734b54eb8968b50c7f81040a4b8515cd81ae472cf9eb441caca45e3069948"
+    },
+    "dark-settings-disabled-no-banner.png": {
+      "bytes": 18272,
+      "sha256": "0294ee7f93a1c120b309c70558e726b60f791c913f0bc0073abfd7465caff25e"
+    },
+    "dark-settings-enabled-no-banner.png": {
+      "bytes": 18330,
+      "sha256": "ad91714ba3a58999fd38ab868a5a5a4e8f04bf845383726915d8d55588b34afe"
+    },
+    "light-configured-phrase.png": {
+      "bytes": 24600,
+      "sha256": "4fcc0aa99eedd8a123efe9352a8e481fc64a4eeee31c8d32d07aabc724b4be7f"
+    },
+    "light-invalid-entry-fallback.png": {
+      "bytes": 25052,
+      "sha256": "e70e0bcd8b58adc57dca51488bb71b70503904aa34f82ab542185c1a679f2e4d"
+    },
+    "light-observations.json": {
+      "bytes": 961,
+      "sha256": "0ad08f6c83ea0292db2bfcf5fd2565d0b588fd268f3c5916ddd34610eee23beb"
+    },
+    "light-other-setting-restart-control.png": {
+      "bytes": 20863,
+      "sha256": "fd4e4d6ce70f4b68971e1fc83f90d673c2e0e5df384d8e8ee7193bedb90cffb5"
+    },
+    "light-phrase-disabled.png": {
+      "bytes": 22780,
+      "sha256": "2a985f8161f4ae9e3893601e5f6295d2710d1e18ad94f33fdc37b35a0b2a8c79"
+    },
+    "light-phrase-reenabled.png": {
+      "bytes": 26081,
+      "sha256": "e815715e5a48c77bf2f532d397b3d1042a1aebe81d836271a4bd54b93defbea6"
+    },
+    "light-settings-disabled-no-banner.png": {
+      "bytes": 17976,
+      "sha256": "fee203224860a8a010d53a1ebd0199026128b5b5032e653a22c83f6379f26446"
+    },
+    "light-settings-enabled-no-banner.png": {
+      "bytes": 18176,
+      "sha256": "039d000be6cc93e17f5269f6724455a873d203a4187c086b8b2793ee24808829"
+    },
+    "loading-phrases.spec.ts": {
+      "bytes": 7016,
+      "sha256": "99272e2c3959ad54a34d30b0e26f1ffd8460187a9bc9db92dba277de0d27a8ac"
+    },
+    "package.json": {
+      "bytes": 33,
+      "sha256": "a90fc33418afa2b9cbf4768524b021135b965ecdf993457505bfae3ac44a8428"
+    },
+    "playwright.config.cjs": {
+      "bytes": 1147,
+      "sha256": "a95e45c478a2ae8cfb4450a429887f1d6680b8be1106d5751ef1a6c550ae7d11"
+    },
+    "vite.config.mts": {
+      "bytes": 769,
+      "sha256": "8f787ad54169a1da395b59bf178a8efd09c427a24bf48ccf9d311aa515f1cd35"
+    }
+  }
+}

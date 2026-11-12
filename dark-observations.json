@@ -1,0 +1,32 @@
+{
+  "baseHead": "01785474c8affd6d5306cabe47c7dc00249dea28",
+  "preparedTree": "6eaf1661da0aa9674b2c2e584784a7c4e7a2a691",
+  "backend": "repository mock daemon; POST deliberately returns requiresRestart=true",
+  "writes": [
+    {
+      "scope": "workspace",
+      "key": "ui.accessibility.enableLoadingPhrases",
+      "value": false
+    },
+    {
+      "scope": "workspace",
+      "key": "ui.accessibility.enableLoadingPhrases",
+      "value": true
+    },
+    {
+      "scope": "workspace",
+      "key": "output.showTimestamps",
+      "value": true
+    }
+  ],
+  "documentStayedSame": true,
+  "documentNonceBefore": "e7764900-e461-49c7-aa0c-b2f2aaf54028",
+  "documentNonceAfter": "e7764900-e461-49c7-aa0c-b2f2aaf54028",
+  "claims": [
+    "configured phrase visible",
+    "array editor hidden",
+    "toggle off/on updates chat without page reload",
+    "no restart banner for loading-phrase setting",
+    "unrelated restart-required setting still shows banner"
+  ]
+}
